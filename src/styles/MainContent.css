@@ -1,0 +1,44 @@
+.mainContent {
+    margin: 40px 70px;
+}
+.mainContent-text {
+    font-size: 70px;
+    margin: 131px 60px;
+}
+.mainContent-text_listen {
+    font-size: 24px;
+}
+.mainContent {
+    display: flex;
+}
+.mainContent-container {
+    display: flex;
+}
+.mainContent-container {
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+}
+.mainContent-next_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 15px;
+    font-size: 80px;
+}
+.maimContent-level {
+    font-size: 80px;
+    font-weight: bold;
+}
+.mainContent-text-conteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 170px;
+    height: 80px;
+}
+.mainContent-text_link {
+    display: flex;
+    justify-content: space-between;
+    width: 210px;
+}

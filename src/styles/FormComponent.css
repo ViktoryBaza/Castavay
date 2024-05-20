@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin: 100px 70px;
+    padding: 50px 50px;
+    line-height: 1;
+}
+.newsletter {
+    font-size: 20px;
+    color: #118da8;
+}
+.updates {
+    font-size: 70px;
+}
+input {
+    width: 400px;
+    height: 60px;
+    background-color: rgba(101, 101, 101, 0.506);
+    margin-bottom: 20px;
+    border: none;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
+}
+::placeholder {
+    color: rgba(255, 255, 255, 0.686);
+    font-size: 15px;
+}

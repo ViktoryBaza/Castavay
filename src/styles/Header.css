@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 43px;
+    padding-bottom: 43px;
+}
+.header_title {
+    font-size: 32px;
+    margin-top: -15px;
+}
+.header-right {
+    width: 403px;
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    color: rgb(255, 255, 255);
+    transition: color 0.3s;
+    text-decoration: none;
+}
+a:hover {
+    color: #118da8;
+}

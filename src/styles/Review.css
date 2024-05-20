@@ -1,0 +1,26 @@
+.review {
+    width: 400px;
+    height: 370px;
+    border-radius: 14px;
+    background-color: black;
+}
+.review_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 50px 30px;
+}
+.review_text {
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.name_users {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.594);
+}
+.stars {
+    display: flex;
+    justify-content: space-between;
+    width: 108px;
+}

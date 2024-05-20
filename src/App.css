@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  background-color: #282c34;
+}
+body {
+  background-color: #282c34;
+  color: #ffffff;
 }
 
 .App-logo {
@@ -35,4 +39,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+.review-container_top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 70px;
+}
+.review-container_buttom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 70px;
 }

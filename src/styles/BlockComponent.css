@@ -1,0 +1,46 @@
+button {
+    background-color: #118da8;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 51px;
+    width: 178px;
+    margin-top: 28px;
+    transition: color 3s;
+    transition: background-color 3s;
+}
+button:hover {
+    background-color: #ffffff;
+    color: #118da8;
+}
+.Gear {
+    background-color: rgb(29, 29, 29);
+    width: 55px;
+    height: 30px;
+    padding-left: 10px;
+}
+.blockComponent {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin: 50px 70px;
+}
+.blockComponent-text {
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    margin: 40px 40px;
+}
+.Episode_container {
+    display: flex;
+    color: #118da8;
+    padding-top: 20px;
+}
+.component_title {
+    font-size: 50px;
+    line-height: 60px;
+}
+.main_text {
+    font-size: 25px;
+    color: #ffffffc1;
+    padding-top: 5px;
+}

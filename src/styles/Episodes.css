@@ -1,0 +1,23 @@
+.episodes {
+    display: flex;
+    justify-content: space-between;
+    font-size: 70px;
+    margin: 40px 70px;
+}
+.latest {
+    display: flex;
+}
+button {
+    background-color: #118da8;
+    color: #ffffff;
+    border-radius: 10px;
+    height: 51px;
+    width: 178px;
+    margin-top: 28px;
+    transition: color 3s;
+    transition: background-color 3s;
+}
+button:hover {
+    background-color: #ffffff;
+    color: #118da8;
+}
